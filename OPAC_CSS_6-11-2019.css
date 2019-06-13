@@ -23,6 +23,12 @@ body{
 	background:#555558 none;
 	font-family:sans-serif;
 	font-size:16px}
+
+.header-region{
+	width:90%;
+	border-radius:25px;
+	padding:10px;
+}
 .fonts-loaded body{font-family:NotoSans}
 body,html{height:100%}
 .no-js 
